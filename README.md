@@ -1,4 +1,4 @@
-# Representative-days-using-community-detection
+# Representative-days-using graph oriented information fusion
 This repository contains the Python files and associated code used to produce the results for the study:
 "Identifying Representative Days For Solar PV Performance Analysis Using Community Detection"
 
