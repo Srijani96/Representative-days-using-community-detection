@@ -162,6 +162,6 @@ perform_pca(dfT_cleaned, dfQ_cleaned)
 
 ## Save Processed Data
 
-output_path = "Documents/Clustering_for_image_analysis/meteo_mat/data/data_compare.csv"
+output_path = "Output.csv"
 df_compare.to_csv(output_path, index=True)
 print(f"\nProcessed and compared data saved to {output_path}")
