@@ -13,7 +13,7 @@ This repository contains the Python files and associated code used to produce th
 ## Key Features
 
 - Implementation of community detection techniques for time series data.
-- Implementation of K-Means clustering techniques for time series data.
+- Implementation of K-Means clustering techniques followed by centroid calculation for time series data.
 - Methods for identifying representative days in year-long meteo data for solar PV performance analysis.
 
 ## Citation
