@@ -20,7 +20,7 @@ This repository contains the Python files and associated code used to produce th
 
 If you use this code or find it helpful in your research, please cite our paper:
 
-[Citation details to be added upon publication]
+https://doi.org/10.1007/s12667-025-00767-y 
 
 ## Contact
 
